@@ -6,7 +6,7 @@ public class Esercizio4 {
 		double x = 12.5;
 		double y = 7.5;
 		double z = 9.5;
-		int w = 6;
+		int w = 7;
 		System.out.println(rectanglePerimeter(x,y));
 		System.out.println(evenAndOdd(w));
 		System.out.println(triangleArea(x,y,z));
